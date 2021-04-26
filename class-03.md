@@ -28,6 +28,8 @@ width,height**
 - **margin** :Margins sit outside the edge of the border
 - **padding** :Padding is the space between the border of a box and any content in it
 
+![css](https://cdn.educba.com/academy/wp-content/uploads/2020/02/CSS-Padding.jpg)
+
 
 
 
