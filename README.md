@@ -4,11 +4,11 @@
 
 ## Code 201 Reading Notes
 
-| ***name***| ***Describe*** |
+| ***name***| ***url*** |
 | --------- | -------------- |
-| day1      | 1              |
+| day1      |                |                                               
 | day2      |2               |
-| day3      | 3              |
+| class-03     | https://khaled611993.github.io/reading.notes-201class/class-03  |             
 | day4      |4               |
 | day5      | 5              |
 | day6      | 6              |
