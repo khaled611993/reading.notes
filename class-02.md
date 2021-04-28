@@ -21,6 +21,7 @@ tag**/p**
  
  **strong**:to make some words strong importance of others words by useing **strong**tag
  
+<<<<<<< HEAD
  ### Introducing CSS
 **css**It is a group of rules useing to styling our **HTML**pages like (**boxes ,text**)
 **block element**that elements which start from start the line like(**h family**) 
@@ -32,7 +33,6 @@ the css **rule**works on **html**element which contain tow parts:
    - **Property** like color,font,background.
    - **values** value the property.
 **we can styling our page by internal way but it is not practical we  prefer External way**
-
 
 
 
