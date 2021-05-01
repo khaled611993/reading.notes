@@ -7,9 +7,9 @@
 | ***name***| ***url*** |
 | --------- | -------------- |
 | day1      |                |                                               
-| day2      |2               |
-| class-03     | https://khaled611993.github.io/reading.notes-201class/class-03  |             
-| day4      |4               |
+| class-02  |https://khaled611993.github.io/reading.notes-201class/class-02      |
+| class-03  | https://khaled611993.github.io/reading.notes-201class/class-03     |             
+| class-04  |4               |
 | day5      | 5              |
 | day6      | 6              |
 | day7      | 7              |
