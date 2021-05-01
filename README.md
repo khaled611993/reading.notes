@@ -7,15 +7,9 @@
 | ***name***| ***url*** |
 | --------- | -------------- |
 | day1      |                |                                               
-<<<<<<< HEAD
 | class-02  |https://khaled611993.github.io/reading.notes-201class/class-02      |
 | class-03  | https://khaled611993.github.io/reading.notes-201class/class-03     |             
-| class-04  |4               |
-=======
-| class-02      |https://khaled611993.github.io/reading.notes-201class/class-02      |
-| class-03     | https://khaled611993.github.io/reading.notes-201class/class-03  |             
-| day4      |4               |
->>>>>>> d65bde8f30638255f9b8ea85f3af0586e45ded7c
+| class-04  |    https://khaled611993.github.io/reading.notes-201class/class-04  |
 | day5      | 5              |
 | day6      | 6              |
 | day7      | 7              |
