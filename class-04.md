@@ -31,7 +31,7 @@ CSS deals with every element as if it is in its own box. This box will either be
 or an
  - **inline box** :flow in between surrounding text Examples include: **img , b , i .
 
- ### Controll ing the Position of Elements.
+**Controll ing the Position of Elements**.
 
  - **Normal flow**: In normal flow, each block-level element sits on top of the next one(**position:static**)
  - **Relative Positioning**: moves an element in relation to where it would have been in normal flow(**position:relative**)
