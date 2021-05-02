@@ -1,6 +1,6 @@
 ## LINKS IN HTML
 ### links creating by useing **a** element with add **href** in the opening tag 
- ### TYPES OF LINKS.
+ **TYPES OF LINKS**.
 1. **Links from one website to another**:
 When you link to a different website, the value of the href attribute will be the full web address for the site.
 
