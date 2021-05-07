@@ -6,21 +6,21 @@
 
 | ***name***| ***url*** |
 | --------- | -------------- |
-| day1      |                |                                               
-| class-02  |https://khaled611993.github.io/reading.notes-201class/class-02      |
+|class-01   |                |                                               
+| class-02  | https://khaled611993.github.io/reading.notes-201class/class-02     |
 | class-03  | https://khaled611993.github.io/reading.notes-201class/class-03     |             
-| class-04  |    https://khaled611993.github.io/reading.notes-201class/class-04  |
+| class-04  | https://khaled611993.github.io/reading.notes-201class/class-04     |
 | class-05  | https://khaled611993.github.io/reading.notes-201class/class-05     |
-| day6      | 6              |
-| day7      | 7              |
-| day8      | 8              |
-| day9      | 9              |
-| day10     | 10             |
-| day11     | 11             |
-| day12     | 12             |
-| day13     | 13             |
-| day14     | 14             |
-|day15      |15              |
+| class-06  | https://khaled611993.github.io/reading.notes-201class/class-06     |
+| class-07  | https://khaled611993.github.io/reading.notes-201class/class-07     |
+| class-08  | https://khaled611993.github.io/reading.notes-201class/class-08     |
+| class-09  | https://khaled611993.github.io/reading.notes-201class/class-09     |
+| class-10  | https://khaled611993.github.io/reading.notes-201class/class-10     |
+| class-11  | https://khaled611993.github.io/reading.notes-201class/class-11     |
+|class-12   | https://khaled611993.github.io/reading.notes-201class/class-12     |
+|class-13   | https://khaled611993.github.io/reading.notes-201class/class-13     |
+| class-14  | https://khaled611993.github.io/reading.notes-201class/class-14     |
+|class-15   | https://khaled611993.github.io/reading.notes-201class/class-15     |
 
 ### [MY GITHUB](https://github.com/khaled611993)
 
