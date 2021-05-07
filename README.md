@@ -10,7 +10,7 @@
 | class-02  |https://khaled611993.github.io/reading.notes-201class/class-02      |
 | class-03  | https://khaled611993.github.io/reading.notes-201class/class-03     |             
 | class-04  |    https://khaled611993.github.io/reading.notes-201class/class-04  |
-| day5      | 5              |
+| class-05  | https://khaled611993.github.io/reading.notes-201class/class-05     |
 | day6      | 6              |
 | day7      | 7              |
 | day8      | 8              |
